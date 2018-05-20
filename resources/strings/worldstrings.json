@@ -1,0 +1,6 @@
+{
+  "WORLD":          "world",
+  "BUILDING":       "building",
+  "ROOM":           "room",
+  "ENTITY":         "entity"
+}

@@ -1,0 +1,11 @@
+{
+  "MINION":           "Minion",
+  "FEELING":          "feeling",
+  "FEELINGS":         "feelings",
+  "NEED":             "need",
+  "NEEDS":            "needs",
+  "ACTION":           "action",
+  "STATUS":           "status",
+  "CHANGED_ROOM":     "changed the room to"
+
+}
